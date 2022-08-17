@@ -9,6 +9,7 @@ body{
     align-items: center;
     min-height: 100vh;
     background: rgb(21, 18, 37);
+    z-index: 1;
 }
 .clock{
     width: 21.87rem;
